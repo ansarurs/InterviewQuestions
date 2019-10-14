@@ -46,6 +46,7 @@ namespace InterviewQuestions
                     {
                         begin = low;
                         totalLen = high - low + 1;
+                        //test again for the lows and highs
 
 
                     }
